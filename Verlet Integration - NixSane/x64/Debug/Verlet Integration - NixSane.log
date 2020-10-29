@@ -1,0 +1,5 @@
+﻿  VerletPhysics.cpp
+C:\Users\Nixon Sok\Documents\AIE Projects - 2nd Year\Verlet Integration Library\Verlet Integration - NixSane\Verlet Integration - NixSane\VerletPhysics.cpp(49,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Nixon Sok\Documents\AIE Projects - 2nd Year\Verlet Integration Library\Verlet Integration - NixSane\Verlet Integration - NixSane\VerletPhysics.cpp(172,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Nixon Sok\Documents\AIE Projects - 2nd Year\Verlet Integration Library\Verlet Integration - NixSane\Verlet Integration - NixSane\VerletPhysics.cpp(177,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Verlet Integration - NixSane.vcxproj -> C:\Users\Nixon Sok\Documents\AIE Projects - 2nd Year\Verlet Integration Library\Verlet Integration - NixSane\x64\Debug\NixSaneVerlet.lib
